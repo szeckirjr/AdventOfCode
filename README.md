@@ -1,6 +1,6 @@
 # Advent of Code
 
-[![Node.js CI](https://github.com/szeckirjr/AdventOfCode/actions/workflows/node.js.yml/badge.svg)](https://github.com/szeckirjr/AdventOfCode/actions/workflows/node.js.yml)
+[![Testing CI](https://github.com/szeckirjr/AdventOfCode/actions/workflows/node.js.yml/badge.svg)](https://github.com/szeckirjr/AdventOfCode/actions/workflows/node.js.yml)
 
 This repository contains my solutions to the [Advent of Code](https://adventofcode.com/) puzzles.
 
